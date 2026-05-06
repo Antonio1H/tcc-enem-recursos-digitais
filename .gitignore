@@ -1,0 +1,21 @@
+# Arquivos de dados grandes
+*.csv
+*.zip
+*.rar
+*.7z
+*.xlsx
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+
+# Configurações locais
+.vscode/
